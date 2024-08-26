@@ -4,8 +4,8 @@ Welcome to the **Learning Resources** repository! This is a curated collection o
 
 We encourage you to contribute by sharing your favorite resources in the categories below!
 
-## Resources
--[Books](https://github.com/Qharny/Programing-books)
+<!-- ## 📂 Resources
+- [Books](https://github.com/Qharny/Programing-books) -->
 
 ## 📂 Categories
 
@@ -29,6 +29,7 @@ We encourage you to contribute by sharing your favorite resources in the categor
 - [Open Source Contributions](./others/open-source-contributions.md)
 - [Coding Challenges](./others/coding-challenges.md)
 - [Security](./others/security.md)
+- [Books](https://github.com/Qharny/Programing-books)
 
 ## 🌟 How to Contribute
 
