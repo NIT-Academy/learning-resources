@@ -9,6 +9,9 @@ We encourage you to contribute by sharing your favorite resources in the categor
 
 ## 📂 Categories
 
+### Cybersecurity and Networking
+- [Networking Basics](./cybersecurity-nd-networking/)
+
 ### Web Development
 - [HTML & CSS](./web-development/html-css.md)
 - [JavaScript](./web-development/javascript.md)
